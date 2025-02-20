@@ -1,0 +1,15 @@
+C:\Users\Leoni\Desktop\Algoritma-Analizi\BubbleSortAnalysis\bin\Debug\net8.0\BubbleSortAnalysis.exe
+C:\Users\Leoni\Desktop\Algoritma-Analizi\BubbleSortAnalysis\bin\Debug\net8.0\BubbleSortAnalysis.deps.json
+C:\Users\Leoni\Desktop\Algoritma-Analizi\BubbleSortAnalysis\bin\Debug\net8.0\BubbleSortAnalysis.runtimeconfig.json
+C:\Users\Leoni\Desktop\Algoritma-Analizi\BubbleSortAnalysis\bin\Debug\net8.0\BubbleSortAnalysis.dll
+C:\Users\Leoni\Desktop\Algoritma-Analizi\BubbleSortAnalysis\bin\Debug\net8.0\BubbleSortAnalysis.pdb
+C:\Users\Leoni\Desktop\Algoritma-Analizi\BubbleSortAnalysis\obj\Debug\net8.0\BubbleSortAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leoni\Desktop\Algoritma-Analizi\BubbleSortAnalysis\obj\Debug\net8.0\BubbleSortAnalysis.AssemblyInfoInputs.cache
+C:\Users\Leoni\Desktop\Algoritma-Analizi\BubbleSortAnalysis\obj\Debug\net8.0\BubbleSortAnalysis.AssemblyInfo.cs
+C:\Users\Leoni\Desktop\Algoritma-Analizi\BubbleSortAnalysis\obj\Debug\net8.0\BubbleSortAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Leoni\Desktop\Algoritma-Analizi\BubbleSortAnalysis\obj\Debug\net8.0\BubbleSortAnalysis.sourcelink.json
+C:\Users\Leoni\Desktop\Algoritma-Analizi\BubbleSortAnalysis\obj\Debug\net8.0\BubbleSortAnalysis.dll
+C:\Users\Leoni\Desktop\Algoritma-Analizi\BubbleSortAnalysis\obj\Debug\net8.0\refint\BubbleSortAnalysis.dll
+C:\Users\Leoni\Desktop\Algoritma-Analizi\BubbleSortAnalysis\obj\Debug\net8.0\BubbleSortAnalysis.pdb
+C:\Users\Leoni\Desktop\Algoritma-Analizi\BubbleSortAnalysis\obj\Debug\net8.0\BubbleSortAnalysis.genruntimeconfig.cache
+C:\Users\Leoni\Desktop\Algoritma-Analizi\BubbleSortAnalysis\obj\Debug\net8.0\ref\BubbleSortAnalysis.dll

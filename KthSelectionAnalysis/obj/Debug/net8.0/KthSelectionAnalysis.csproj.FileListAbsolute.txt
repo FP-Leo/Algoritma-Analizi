@@ -1,0 +1,15 @@
+C:\Users\leoni\Desktop\Algoritma-Analizi\KthSelectionAnalysis\bin\Debug\net8.0\KthSelectionAnalysis.exe
+C:\Users\leoni\Desktop\Algoritma-Analizi\KthSelectionAnalysis\bin\Debug\net8.0\KthSelectionAnalysis.deps.json
+C:\Users\leoni\Desktop\Algoritma-Analizi\KthSelectionAnalysis\bin\Debug\net8.0\KthSelectionAnalysis.runtimeconfig.json
+C:\Users\leoni\Desktop\Algoritma-Analizi\KthSelectionAnalysis\bin\Debug\net8.0\KthSelectionAnalysis.dll
+C:\Users\leoni\Desktop\Algoritma-Analizi\KthSelectionAnalysis\bin\Debug\net8.0\KthSelectionAnalysis.pdb
+C:\Users\leoni\Desktop\Algoritma-Analizi\KthSelectionAnalysis\obj\Debug\net8.0\KthSelectionAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoni\Desktop\Algoritma-Analizi\KthSelectionAnalysis\obj\Debug\net8.0\KthSelectionAnalysis.AssemblyInfoInputs.cache
+C:\Users\leoni\Desktop\Algoritma-Analizi\KthSelectionAnalysis\obj\Debug\net8.0\KthSelectionAnalysis.AssemblyInfo.cs
+C:\Users\leoni\Desktop\Algoritma-Analizi\KthSelectionAnalysis\obj\Debug\net8.0\KthSelectionAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\leoni\Desktop\Algoritma-Analizi\KthSelectionAnalysis\obj\Debug\net8.0\KthSelectionAnalysis.sourcelink.json
+C:\Users\leoni\Desktop\Algoritma-Analizi\KthSelectionAnalysis\obj\Debug\net8.0\KthSelectionAnalysis.dll
+C:\Users\leoni\Desktop\Algoritma-Analizi\KthSelectionAnalysis\obj\Debug\net8.0\refint\KthSelectionAnalysis.dll
+C:\Users\leoni\Desktop\Algoritma-Analizi\KthSelectionAnalysis\obj\Debug\net8.0\KthSelectionAnalysis.pdb
+C:\Users\leoni\Desktop\Algoritma-Analizi\KthSelectionAnalysis\obj\Debug\net8.0\KthSelectionAnalysis.genruntimeconfig.cache
+C:\Users\leoni\Desktop\Algoritma-Analizi\KthSelectionAnalysis\obj\Debug\net8.0\ref\KthSelectionAnalysis.dll
