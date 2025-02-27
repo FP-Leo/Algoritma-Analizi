@@ -1,0 +1,15 @@
+C:\Users\Leoni\Desktop\Algoritma-Analizi\MinMaxAndBinarySearch\bin\Debug\net8.0\MinMaxAndBinarySearch.exe
+C:\Users\Leoni\Desktop\Algoritma-Analizi\MinMaxAndBinarySearch\bin\Debug\net8.0\MinMaxAndBinarySearch.deps.json
+C:\Users\Leoni\Desktop\Algoritma-Analizi\MinMaxAndBinarySearch\bin\Debug\net8.0\MinMaxAndBinarySearch.runtimeconfig.json
+C:\Users\Leoni\Desktop\Algoritma-Analizi\MinMaxAndBinarySearch\bin\Debug\net8.0\MinMaxAndBinarySearch.dll
+C:\Users\Leoni\Desktop\Algoritma-Analizi\MinMaxAndBinarySearch\bin\Debug\net8.0\MinMaxAndBinarySearch.pdb
+C:\Users\Leoni\Desktop\Algoritma-Analizi\MinMaxAndBinarySearch\obj\Debug\net8.0\MinMaxAndBinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leoni\Desktop\Algoritma-Analizi\MinMaxAndBinarySearch\obj\Debug\net8.0\MinMaxAndBinarySearch.AssemblyInfoInputs.cache
+C:\Users\Leoni\Desktop\Algoritma-Analizi\MinMaxAndBinarySearch\obj\Debug\net8.0\MinMaxAndBinarySearch.AssemblyInfo.cs
+C:\Users\Leoni\Desktop\Algoritma-Analizi\MinMaxAndBinarySearch\obj\Debug\net8.0\MinMaxAndBinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Leoni\Desktop\Algoritma-Analizi\MinMaxAndBinarySearch\obj\Debug\net8.0\MinMaxAndBinarySearch.sourcelink.json
+C:\Users\Leoni\Desktop\Algoritma-Analizi\MinMaxAndBinarySearch\obj\Debug\net8.0\MinMaxAndBinarySearch.dll
+C:\Users\Leoni\Desktop\Algoritma-Analizi\MinMaxAndBinarySearch\obj\Debug\net8.0\refint\MinMaxAndBinarySearch.dll
+C:\Users\Leoni\Desktop\Algoritma-Analizi\MinMaxAndBinarySearch\obj\Debug\net8.0\MinMaxAndBinarySearch.pdb
+C:\Users\Leoni\Desktop\Algoritma-Analizi\MinMaxAndBinarySearch\obj\Debug\net8.0\MinMaxAndBinarySearch.genruntimeconfig.cache
+C:\Users\Leoni\Desktop\Algoritma-Analizi\MinMaxAndBinarySearch\obj\Debug\net8.0\ref\MinMaxAndBinarySearch.dll

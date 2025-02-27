@@ -1,0 +1,14 @@
+C:\Users\Leo\source\repos\PowFunction\obj\Debug\net8.0\PowFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\source\repos\PowFunction\obj\Debug\net8.0\PowFunction.AssemblyInfoInputs.cache
+C:\Users\Leo\source\repos\PowFunction\obj\Debug\net8.0\PowFunction.AssemblyInfo.cs
+C:\Users\Leo\source\repos\PowFunction\obj\Debug\net8.0\PowFunction.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\PowFunction\bin\Debug\net8.0\PowFunction.exe
+C:\Users\Leo\source\repos\PowFunction\bin\Debug\net8.0\PowFunction.deps.json
+C:\Users\Leo\source\repos\PowFunction\bin\Debug\net8.0\PowFunction.runtimeconfig.json
+C:\Users\Leo\source\repos\PowFunction\bin\Debug\net8.0\PowFunction.dll
+C:\Users\Leo\source\repos\PowFunction\bin\Debug\net8.0\PowFunction.pdb
+C:\Users\Leo\source\repos\PowFunction\obj\Debug\net8.0\PowFunction.dll
+C:\Users\Leo\source\repos\PowFunction\obj\Debug\net8.0\refint\PowFunction.dll
+C:\Users\Leo\source\repos\PowFunction\obj\Debug\net8.0\PowFunction.pdb
+C:\Users\Leo\source\repos\PowFunction\obj\Debug\net8.0\PowFunction.genruntimeconfig.cache
+C:\Users\Leo\source\repos\PowFunction\obj\Debug\net8.0\ref\PowFunction.dll
