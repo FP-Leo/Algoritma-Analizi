@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LargestSubsum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82844ebc0cf23dfdf5f36b41ac049c835f3e7cd5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7898c4f860b8e048241c15003d5f29ac5a68189")]
 [assembly: System.Reflection.AssemblyProductAttribute("LargestSubsum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LargestSubsum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
