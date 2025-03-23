@@ -1,0 +1,15 @@
+C:\Users\Leoni\Desktop\Algoritma-Analizi\InsertionSort\bin\Debug\net8.0\InsertionSort.exe
+C:\Users\Leoni\Desktop\Algoritma-Analizi\InsertionSort\bin\Debug\net8.0\InsertionSort.deps.json
+C:\Users\Leoni\Desktop\Algoritma-Analizi\InsertionSort\bin\Debug\net8.0\InsertionSort.runtimeconfig.json
+C:\Users\Leoni\Desktop\Algoritma-Analizi\InsertionSort\bin\Debug\net8.0\InsertionSort.dll
+C:\Users\Leoni\Desktop\Algoritma-Analizi\InsertionSort\bin\Debug\net8.0\InsertionSort.pdb
+C:\Users\Leoni\Desktop\Algoritma-Analizi\InsertionSort\obj\Debug\net8.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leoni\Desktop\Algoritma-Analizi\InsertionSort\obj\Debug\net8.0\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\Leoni\Desktop\Algoritma-Analizi\InsertionSort\obj\Debug\net8.0\InsertionSort.AssemblyInfo.cs
+C:\Users\Leoni\Desktop\Algoritma-Analizi\InsertionSort\obj\Debug\net8.0\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\Leoni\Desktop\Algoritma-Analizi\InsertionSort\obj\Debug\net8.0\InsertionSort.sourcelink.json
+C:\Users\Leoni\Desktop\Algoritma-Analizi\InsertionSort\obj\Debug\net8.0\InsertionSort.dll
+C:\Users\Leoni\Desktop\Algoritma-Analizi\InsertionSort\obj\Debug\net8.0\refint\InsertionSort.dll
+C:\Users\Leoni\Desktop\Algoritma-Analizi\InsertionSort\obj\Debug\net8.0\InsertionSort.pdb
+C:\Users\Leoni\Desktop\Algoritma-Analizi\InsertionSort\obj\Debug\net8.0\InsertionSort.genruntimeconfig.cache
+C:\Users\Leoni\Desktop\Algoritma-Analizi\InsertionSort\obj\Debug\net8.0\ref\InsertionSort.dll

@@ -1,0 +1,14 @@
+C:\Users\leoni\Desktop\QuickSort2\bin\Debug\net8.0\QuickSort2.exe
+C:\Users\leoni\Desktop\QuickSort2\bin\Debug\net8.0\QuickSort2.deps.json
+C:\Users\leoni\Desktop\QuickSort2\bin\Debug\net8.0\QuickSort2.runtimeconfig.json
+C:\Users\leoni\Desktop\QuickSort2\bin\Debug\net8.0\QuickSort2.dll
+C:\Users\leoni\Desktop\QuickSort2\bin\Debug\net8.0\QuickSort2.pdb
+C:\Users\leoni\Desktop\QuickSort2\obj\Debug\net8.0\QuickSort2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoni\Desktop\QuickSort2\obj\Debug\net8.0\QuickSort2.AssemblyInfoInputs.cache
+C:\Users\leoni\Desktop\QuickSort2\obj\Debug\net8.0\QuickSort2.AssemblyInfo.cs
+C:\Users\leoni\Desktop\QuickSort2\obj\Debug\net8.0\QuickSort2.csproj.CoreCompileInputs.cache
+C:\Users\leoni\Desktop\QuickSort2\obj\Debug\net8.0\QuickSort2.dll
+C:\Users\leoni\Desktop\QuickSort2\obj\Debug\net8.0\refint\QuickSort2.dll
+C:\Users\leoni\Desktop\QuickSort2\obj\Debug\net8.0\QuickSort2.pdb
+C:\Users\leoni\Desktop\QuickSort2\obj\Debug\net8.0\QuickSort2.genruntimeconfig.cache
+C:\Users\leoni\Desktop\QuickSort2\obj\Debug\net8.0\ref\QuickSort2.dll

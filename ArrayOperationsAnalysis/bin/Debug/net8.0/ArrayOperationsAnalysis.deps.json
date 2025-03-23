@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArrayOperationsAnalysis/1.0.0": {
+        "runtime": {
+          "ArrayOperationsAnalysis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayOperationsAnalysis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

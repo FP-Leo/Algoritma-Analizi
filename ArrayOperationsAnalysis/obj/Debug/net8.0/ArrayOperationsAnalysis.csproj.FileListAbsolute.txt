@@ -1,0 +1,15 @@
+C:\Users\Leoni\Desktop\Algoritma-Analizi\ArrayOperationsAnalysis\bin\Debug\net8.0\ArrayOperationsAnalysis.exe
+C:\Users\Leoni\Desktop\Algoritma-Analizi\ArrayOperationsAnalysis\bin\Debug\net8.0\ArrayOperationsAnalysis.deps.json
+C:\Users\Leoni\Desktop\Algoritma-Analizi\ArrayOperationsAnalysis\bin\Debug\net8.0\ArrayOperationsAnalysis.runtimeconfig.json
+C:\Users\Leoni\Desktop\Algoritma-Analizi\ArrayOperationsAnalysis\bin\Debug\net8.0\ArrayOperationsAnalysis.dll
+C:\Users\Leoni\Desktop\Algoritma-Analizi\ArrayOperationsAnalysis\bin\Debug\net8.0\ArrayOperationsAnalysis.pdb
+C:\Users\Leoni\Desktop\Algoritma-Analizi\ArrayOperationsAnalysis\obj\Debug\net8.0\ArrayOperationsAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leoni\Desktop\Algoritma-Analizi\ArrayOperationsAnalysis\obj\Debug\net8.0\ArrayOperationsAnalysis.AssemblyInfoInputs.cache
+C:\Users\Leoni\Desktop\Algoritma-Analizi\ArrayOperationsAnalysis\obj\Debug\net8.0\ArrayOperationsAnalysis.AssemblyInfo.cs
+C:\Users\Leoni\Desktop\Algoritma-Analizi\ArrayOperationsAnalysis\obj\Debug\net8.0\ArrayOperationsAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Leoni\Desktop\Algoritma-Analizi\ArrayOperationsAnalysis\obj\Debug\net8.0\ArrayOperationsAnalysis.sourcelink.json
+C:\Users\Leoni\Desktop\Algoritma-Analizi\ArrayOperationsAnalysis\obj\Debug\net8.0\ArrayOperationsAnalysis.dll
+C:\Users\Leoni\Desktop\Algoritma-Analizi\ArrayOperationsAnalysis\obj\Debug\net8.0\refint\ArrayOperationsAnalysis.dll
+C:\Users\Leoni\Desktop\Algoritma-Analizi\ArrayOperationsAnalysis\obj\Debug\net8.0\ArrayOperationsAnalysis.pdb
+C:\Users\Leoni\Desktop\Algoritma-Analizi\ArrayOperationsAnalysis\obj\Debug\net8.0\ArrayOperationsAnalysis.genruntimeconfig.cache
+C:\Users\Leoni\Desktop\Algoritma-Analizi\ArrayOperationsAnalysis\obj\Debug\net8.0\ref\ArrayOperationsAnalysis.dll
